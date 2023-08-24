@@ -1,5 +1,4 @@
 # Repositorio de Datos Abiertos-Cartograficos
 
-#Un SIG es un sistema de hardware, software y procedimientos diseñados para llevar a cabo captura, almacenamiento, gestión, diseño, análisis, modelización y presentación de datos referenciados espacialmente para la resolución de problemas complejos de planificación y gestión.
-#Los recursos almacenados en este SIG son de uso público.
+Estos datos cartográficos abiertos fueron obtenidos por estudiantes de sexto semestre de la carrera de Sociología, Facultad de Jurisprudencia de la Universidad de Guayaquil. Estos datos están conformados por un grupos de capas en diferentes formatos, especialmente shapefile, siendo estos nacionales e internacionales abarcando diferentes temas como datos administrativos, seguridad, estructural, ambiental, tránsito, regulación y control del agua, poblacional, movilidad, turismo, viabilidad, entre otras categorías específicas, además en estas capas se concentra la data más destacada a raíz de una investigación intensiva en diferentes geoportales de distintos países y ciudades, clasificándolos según su código, repositorio, tipo de dato, tema, tamaño de archivo y su enlace respectivo. 
 #UNIVERSIDAD DE GUAYAQUIL
